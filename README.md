@@ -29,6 +29,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes and ready to be deployed.
 
+### `yarn deploy`
+
+Builds and deploys app to GitHub Pages.
+
 ### `yarn analyze`
 
 To analyze the bundle after a production build.
