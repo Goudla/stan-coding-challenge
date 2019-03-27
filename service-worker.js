@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/stan-coding-challenge/precache-manifest.6a950686699c9f4ec46d75898995b6c6.js"
+  "/stan-coding-challenge/precache-manifest.cff3b2ae2221cfac7492f9da0dab1398.js"
 );
 
 workbox.clientsClaim();

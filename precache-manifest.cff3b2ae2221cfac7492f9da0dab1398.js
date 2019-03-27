@@ -16,23 +16,23 @@ self.__precacheManifest = [
     "url": "/stan-coding-challenge/static/js/runtime~main.5c3bb239.js"
   },
   {
-    "revision": "166b602b0bf22165a2ac",
-    "url": "/stan-coding-challenge/static/js/main.b9d7ad2e.chunk.js"
+    "revision": "c5024528367c359e3356",
+    "url": "/stan-coding-challenge/static/js/main.4dad1cd6.chunk.js"
   },
   {
-    "revision": "05f231ce4ec0fd34e696",
-    "url": "/stan-coding-challenge/static/js/2.02d49846.chunk.js"
+    "revision": "bccc565c56ae7ffaf0f7",
+    "url": "/stan-coding-challenge/static/js/2.60193950.chunk.js"
   },
   {
-    "revision": "166b602b0bf22165a2ac",
+    "revision": "c5024528367c359e3356",
     "url": "/stan-coding-challenge/static/css/main.72c35be1.chunk.css"
   },
   {
-    "revision": "05f231ce4ec0fd34e696",
+    "revision": "bccc565c56ae7ffaf0f7",
     "url": "/stan-coding-challenge/static/css/2.b4bd9537.chunk.css"
   },
   {
-    "revision": "f97a871b25e176e178802c2a55952d4b",
+    "revision": "57e9b043100c07676a224df9790d4e64",
     "url": "/stan-coding-challenge/index.html"
   }
 ];
