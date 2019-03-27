@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import { BrowserRouter } from 'react-router-dom';
+// HashRouter is used so that the app can be doployed to GitHub Pages
+import { HashRouter } from 'react-router-dom';
 import { Route } from 'react-router-dom';
 
 // Scenes
@@ -11,9 +12,9 @@ import './App.css';
 class App extends Component<*> {
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter>
         <Route path="/" component={Root} />
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }

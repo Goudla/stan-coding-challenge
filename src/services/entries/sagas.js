@@ -12,13 +12,13 @@ import keyBy from 'lodash.keyby';
 import type { Saga } from 'redux-saga';
 
 // Environment
-const REACT_APP_API_URL: string = String(process.env.REACT_APP_API_URL);
+const PUBLIC_URL: string = String(process.env.PUBLIC_URL);
 
 /**
  * entries request/response handler
  */
 export function* getEntries(): Saga<void> {
-  const requestURL = `${REACT_APP_API_URL}/sample.json`;
+  const requestURL = `${PUBLIC_URL}/feed/sample.json`;
 
   try {
     const entries = yield call(axios.get, requestURL);
