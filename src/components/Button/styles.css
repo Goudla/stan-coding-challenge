@@ -1,0 +1,18 @@
+.button {
+  color: #fff;
+  background-image: linear-gradient(to bottom, #444 0, #333 100%);
+  display: inline-block;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 9px 15px;
+  text-decoration: none;
+
+  /* HACK styling that is navbar specific in a generic component */
+  margin-top: 15px;
+  margin-left: 17px;
+}
+
+.button:hover,
+.button:focus {
+  background-image: linear-gradient(to bottom, #555 0, #444 100%);
+}

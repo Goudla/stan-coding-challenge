@@ -1,0 +1,22 @@
+.col {
+  width: 13%;
+  margin-bottom: 30px;
+}
+
+@media (max-width: 980px) {
+  .col {
+    width: 19%;
+  }
+}
+
+@media (max-width: 736px) {
+  .col {
+    width: 32%;
+  }
+}
+
+@media (max-width: 480px) {
+  .col {
+    width: 49%;
+  }
+}

@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> Should render 1`] = `
+<div>
+  <HelmetWrapper
+    defer={true}
+    encodeSpecialCharacters={true}
+  >
+    <title>
+      Home
+    </title>
+  </HelmetWrapper>
+  <SubNavbar>
+    <Container>
+      <SubNavbarHeading>
+        Popular Titles
+      </SubNavbarHeading>
+    </Container>
+  </SubNavbar>
+  <PageContainer>
+    <FlexGrid>
+      <Col>
+        <Link
+          to="/series"
+        >
+          <Title>
+            Popular Series
+          </Title>
+        </Link>
+      </Col>
+      <Col>
+        <Link
+          to="/movies"
+        >
+          <Title>
+            Popular Movies
+          </Title>
+        </Link>
+      </Col>
+    </FlexGrid>
+  </PageContainer>
+</div>
+`;

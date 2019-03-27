@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NavbarHeading /> Should render 1`] = `
+<span
+  className="navbar-heading"
+>
+  <Link
+    to="/"
+  >
+    <h1>
+      Test
+    </h1>
+  </Link>
+</span>
+`;

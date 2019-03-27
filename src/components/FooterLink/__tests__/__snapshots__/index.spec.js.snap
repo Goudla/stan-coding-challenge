@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FooterLink /> Should render 1`] = `
+<a
+  className="footer-link"
+  href="https://www.stan.com.au/"
+>
+  Test
+</a>
+`;

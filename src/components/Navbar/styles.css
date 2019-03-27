@@ -1,0 +1,9 @@
+.navbar {
+  background-image: linear-gradient(to bottom, #09f 0, #06f 100%);
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
+  height: 60px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}

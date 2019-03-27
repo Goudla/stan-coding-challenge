@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<IconWindowsStore /> Should render 1`] = `
+<img
+  alt="Windows Store"
+  src="windows-store.svg"
+  width="110"
+/>
+`;

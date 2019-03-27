@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FooterLinks /> Should render 1`] = `
+<div
+  className="footer-links"
+>
+  Test
+</div>
+`;

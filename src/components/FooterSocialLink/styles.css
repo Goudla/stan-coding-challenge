@@ -1,0 +1,12 @@
+.footer-social-link {
+  color: #fff;
+  flex: 1;
+  margin-top: 42px;
+  margin-right: 20px;
+}
+
+.footer-social-link:hover,
+.footer-social-link:focus,
+.footer-social-link:active {
+  color: #0099ff;
+}

@@ -1,0 +1,9 @@
+.footer-external-links {
+  display: flex;
+}
+
+/* @media (max-width: 736px) {
+  .footer-external-links {
+    display: block;
+  }
+} */

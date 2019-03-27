@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FooterCopyright /> Should render 1`] = `
+<div
+  className="footer-copyright"
+>
+  Test
+</div>
+`;

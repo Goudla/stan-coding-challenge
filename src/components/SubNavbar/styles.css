@@ -1,0 +1,7 @@
+.sub-navbar {
+  background-image: linear-gradient(to bottom, #444 0, #333 100%);
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
+  height: 56px;
+  padding-top: 13px;
+  width: 100%;
+}

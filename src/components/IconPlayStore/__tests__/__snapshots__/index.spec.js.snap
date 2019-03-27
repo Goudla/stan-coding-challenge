@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<IconPlayStore /> Should render 1`] = `
+<img
+  alt="Play Store"
+  src="play-store.svg"
+  width="135"
+/>
+`;

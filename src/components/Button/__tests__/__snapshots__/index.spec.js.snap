@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> Should render 1`] = `
+<Link
+  className="button"
+  to="/"
+>
+  Test
+</Link>
+`;

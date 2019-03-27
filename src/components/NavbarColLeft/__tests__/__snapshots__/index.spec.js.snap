@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NavbarColLeft /> Should render 1`] = `
+<div
+  className="navbar-col-left"
+>
+  Test
+</div>
+`;

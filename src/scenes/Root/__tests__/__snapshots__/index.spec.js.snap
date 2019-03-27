@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Root /> Should render 1`] = `
+<PageWrapper>
+  <PageHeader>
+    <Navbar>
+      <Container>
+        <FlexGrid>
+          <NavbarColLeft>
+            <NavbarHeading>
+              DEMO Streaming
+            </NavbarHeading>
+          </NavbarColLeft>
+          <NavbarColRight>
+            <ButtonLink>
+              Log in
+            </ButtonLink>
+            <Button>
+              Start your free trial
+            </Button>
+          </NavbarColRight>
+        </FlexGrid>
+      </Container>
+    </Navbar>
+  </PageHeader>
+  <PageContent>
+    <Switch>
+      <Route
+        component={[Function]}
+        exact={true}
+        path="/"
+      />
+      <Route
+        exact={true}
+        path="/series"
+        render={[Function]}
+      />
+      <Route
+        exact={true}
+        path="/movies"
+        render={[Function]}
+      />
+      <Redirect
+        from="/*"
+        to="/"
+      />
+    </Switch>
+  </PageContent>
+  <PageFooter>
+    <Footer>
+      <Container>
+        <FooterLinks>
+          <FooterLink>
+            Home
+          </FooterLink>
+          <FooterLink>
+            Terms and Conditions
+          </FooterLink>
+          <FooterLink>
+            Privacy Policy
+          </FooterLink>
+          <FooterLink>
+            Collection Statement
+          </FooterLink>
+          <FooterLink>
+            Help
+          </FooterLink>
+          <FooterLink>
+            Manage Account
+          </FooterLink>
+        </FooterLinks>
+        <FooterCopyright>
+          Copyright © 2016 DEMO Streaming. All Rights Reserved.
+        </FooterCopyright>
+        <FooterExternalLinks>
+          <FooterSocialLinks>
+            <FooterSocialLink>
+              <FaFacebookF
+                size="30"
+              />
+            </FooterSocialLink>
+            <FooterSocialLink>
+              <FaTwitter
+                size="30"
+              />
+            </FooterSocialLink>
+            <FooterSocialLink>
+              <FaInstagram
+                size="30"
+              />
+            </FooterSocialLink>
+          </FooterSocialLinks>
+          <FooterStoreLinks>
+            <FooterStoreLink>
+              <IconAppStore />
+            </FooterStoreLink>
+            <FooterStoreLink>
+              <IconPlayStore />
+            </FooterStoreLink>
+            <FooterStoreLink>
+              <IconWindowsStore />
+            </FooterStoreLink>
+          </FooterStoreLinks>
+        </FooterExternalLinks>
+      </Container>
+    </Footer>
+  </PageFooter>
+</PageWrapper>
+`;

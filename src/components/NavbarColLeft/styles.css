@@ -1,0 +1,9 @@
+.navbar-col-left {
+  flex: 1;
+}
+
+@media (max-width: 600px) {
+  .navbar-col-left {
+    display: none;
+  }
+}

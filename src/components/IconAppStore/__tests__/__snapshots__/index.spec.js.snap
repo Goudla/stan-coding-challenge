@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<IconAppStore /> Should render 1`] = `
+<img
+  alt="App Store"
+  src="app-store.svg"
+  width="135"
+/>
+`;
