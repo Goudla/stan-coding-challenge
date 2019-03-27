@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Goudla/stan-coding-challenge.git/precache-manifest.cdf9700a773f894016072e72a3a54282.js"
+  "/stan-coding-challenge/precache-manifest.6a950686699c9f4ec46d75898995b6c6.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Goudla/stan-coding-challenge.git/index.html", {
+workbox.routing.registerNavigationRoute("/stan-coding-challenge/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
